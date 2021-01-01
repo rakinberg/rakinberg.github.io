@@ -6,6 +6,8 @@
 
 ### Contact
 
+<p id="demo" style="text-align:right;">This is an example paragraph.</p>
+
 <dl>
 <dt>+91-9923327287</dt>
 <dt>ritesh@rakinberg.com</dt>
