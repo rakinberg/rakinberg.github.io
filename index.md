@@ -4,18 +4,19 @@
 
 <hr>
 
-### Contact
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<p id="demo" style="text-align:right;">This is an example paragraph.</p>
+<p id="demo" style="text-align:right;">This is an example paragraph.
+### Contact
 
 <dl>
 <dt>+91-9923327287</dt>
 <dt>ritesh@rakinberg.com</dt>
 </dl>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</p>
