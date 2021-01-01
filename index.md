@@ -1,6 +1,6 @@
 <hr>
 
-<h1 id="demo" style="text-align:left;"> Nonetheless, the developing countries must be able to reap the benefits of international trade.</h1>
+<h1 id="demo" style="text-align:left; font-family: serif;"> Nonetheless, the developing countries must be able to reap the benefits of international trade.</h1>
 
 <hr>
 
