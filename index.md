@@ -13,7 +13,7 @@
 <br>
 
 <p id="demo" style="text-align:right;">
-Contact
+<h3>Contact:></h3>
 <br>
 <dl>
 <dt>+91-9923327287</dt>
