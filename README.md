@@ -1,4 +1,4 @@
-<h1 id="demo" style="text-align:center; font-family: serif;"> Nonetheless, the developing countries must be able to reap the benefits of international trade</h1>
+<h1 id="demo" style="text-align:center; font-family: serif;"> RAKINBERG COMMERCE</h1>
 
 [![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
 
