@@ -13,10 +13,8 @@
 <br>
 
 <p id="demo" style="text-align:right;">
-<h3>Contact:></h3>
+<h3 id="demo" style="text-align:right;">Contact:></h3>
 <br>
-<dl>
-<dt>+91-9923327287</dt>
-<dt>ritesh@rakinberg.com</dt>
-</dl>
++91-9923327287
+<br>ritesh@rakinberg.com
 </p>
