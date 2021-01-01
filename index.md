@@ -13,8 +13,7 @@
 <br>
 
 <p id="demo" style="text-align:right;">
-<h3 id="demo" style="text-align:right;">Contact:></h3>
-<br>
+<h3 id="demo" style="text-align:right;">Contact:</h3>
 +91-9923327287
 <br>ritesh@rakinberg.com
 </p>
