@@ -14,5 +14,5 @@
 <h3 id="demo" style="text-align:right;">Contact:</h3>
 <p id="demo" style="text-align:right;">
 +91-9923327287
-<br>ritesh@rakinberg.com
+<br><a href="mailto:ritesh@rakinberg.com">ritesh@rakinberg.com</a>
 </p>
